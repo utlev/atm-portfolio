@@ -45,7 +45,7 @@ notes/           Reading notes from SKYbrary and other references.
 
 ```bash
 # Clone
-git clone https://github.com/<your-username>/atm-portfolio.git
+git clone https://github.com/utlev/atm-portfolio.git
 cd atm-portfolio
 
 # Install dependencies (uv recommended, pip works too)

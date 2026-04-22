@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [
-    { name = "Your Name", email = "you@example.com" },
+    { name = "Utku Dinc", email = "utkudinc123@gmail.com" },
 ]
 keywords = ["atm", "air-traffic-management", "eurocontrol", "opensky", "aviation"]
 classifiers = [
@@ -46,8 +46,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/<your-username>/atm-portfolio"
-Issues = "https://github.com/<your-username>/atm-portfolio/issues"
+Homepage = "https://github.com/utlev/atm-portfolio"
+Issues = "https://github.com/utlev/atm-portfolio/issues"
 
 # -----------------------------------------------------------------------------
 # Build system
